@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o CEATOX"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "O CEATOX é um centro renomado, fundado em 1991, que se dedica a fornecer informações urgentes relacionadas às intoxicações. Nossa equipe é composta por médicos, farmacêuticos, psicólogos e alunos de áreas da saúde, todos prontos para auxiliar em casos de envenenamento e exposições tóxicas."
+  },
+  "content": "O CEATOX é um ponto de referência em saúde no Brasil, colaborando com hospitais e profissionais de saúde para garantir atendimento eficaz em situações de emergência. Analisamos dados toxicológicos em tempo real e participamos de uma rede nacional de informações sobre intoxicações.",
+  "mission": "Nossa missão é proteger a saúde da população, fornecendo informações precisas e apoio em situações de emergência relacionadas a substâncias tóxicas.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

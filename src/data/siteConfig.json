@@ -1,0 +1,53 @@
+{
+  "name": "CEATOX",
+  "slug": "ceatox.com.br",
+  "description": "O QUE É O CEATOX - SP O CEATOX é o Centro de Assistência Toxicológica do Instituto da Criança do Hospital das Clinicas da Faculdade de Medicina da Universidade de São Paulo. Criado em agosto de 1991, ele funciona 24 horas por dia no prédio do Instituto da Criança e se destina a fornecer informações específicas em caráter de urgência, a profissionais de saúde e população em geral, nas eventualidades de envenenamento, exposição a substâncias tóxicas, contaminação com defensivos agrícolas, acidentes com animais venenosos e reações adversas a medicamentos, via telefone, auxiliando no diagnóstico e tratamento. O CEATOX é composto por um grupo de profissionais de sáude, médicos, farmacêuticos, psicólogos e acadêmicos de medicina, farmácia-bioquímica, enfermagem e medicina veterinária, que para o atendimento das consultas utilizam vários bancos de dados, além de comunicação on-line com bancos internacionais. Mantém contato com outros Centros de Intoxicação e interage com o Sistema Nacional de Informações Toxicológicas – SINITOX da Fundação Oswaldo Cruz – FIOCRUZ do Ministério da Saúde. O QUE FAZEMOS ? O CEATOX fornece informações especializadas em casos de intoxicações agudas ou crônicas, acidentais, intencionais ou ocupacionais, causadas por medicamentos, produtos químicos, plantas, animais peçonhentos, drogas de abuso, alimentos, cosméticos, etc à médicos e outros profissionais de saúde e também à população em geral. O CEATOX analisa os casos de reações adversas a medicamentos, relatando-os posteriormente à Organização Mundial de Saúde, que atualmente conta com um banco de dados com mais de 2.000.000 de casos de reações adversas. A atividade educativa junto à população é realizada através de palestras, aulas e entrevistas a órgãos de divulgação no sentido de orientar a forma mais segura de utilização dos produtos químicos e cuidados para se evitar as intoxicações. Anualmente, no mês de maio, o CEATOX oferece um curso de Toxicologia Clínica, destinado principalmente aos profissionais da saúde. Este curso é ministrado a noite e tem a duração de uma semana. Tem como um dos objetivos a seleção de novos plantonistas.",
+  "url": "https://ceatox.com.br",
+  "niche": "Saúde e Bem-estar",
+  "keywords": "O QUE E O CEATOX SP O CEATOX e o Centro de",
+  "email": "contato@ceatox.com.br",
+  "palette": "rose",
+  "colors": {
+    "primary": "#e11d48",
+    "accent": "#9f1239",
+    "dark": "#4c0519"
+  },
+  "headerContrast": "light",
+  "font": "playfair",
+  "fontFamily": "'Playfair Display', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-F",
+    "hero": "Hero-J",
+    "features": "Features-J",
+    "about": "About-F",
+    "posts": "Posts-J",
+    "footer": "Footer-A",
+    "sobre": "Sobre-C",
+    "contato": "Contato-J"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

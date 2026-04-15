@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "CEATOX — Bem-vindo ao CEATOX",
+    "description": "Centro de Assistência Toxicológica do Hospital das Clínicas"
+  },
+  "hero": {
+    "title": "Bem-vindo ao CEATOX",
+    "subtitle": "Centro de Assistência Toxicológica do Hospital das Clínicas",
+    "btnText": "Saiba mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "O que fazemos",
+    "items": [
+      {
+        "icon": "🩺",
+        "title": "Atendimento 24/7",
+        "desc": "Oferecemos suporte contínuo para casos de intoxicação, acidentes e exposições a substâncias tóxicas."
+      },
+      {
+        "icon": "📊",
+        "title": "Relatórios Abrangentes",
+        "desc": "Analisamos e reportamos reações adversas a medicamentos à Organização Mundial de Saúde."
+      },
+      {
+        "icon": "🎓",
+        "title": "Capacitação em Toxicologia",
+        "desc": "Realizamos cursos anuais de Toxicologia Clínica, promovendo formação especializada para profissionais de saúde."
+      },
+      {
+        "icon": "🗣️",
+        "title": "Educação e Conscientização",
+        "desc": "Realizamos palestras e workshops para a população, abordando a prevenção de intoxicações."
+      }
+    ]
+  },
+  "about": {
+    "title": "Quem somos",
+    "desc": "O CEATOX é um centro renomado, fundado em 1991, que se dedica a fornecer informações urgentes relacionadas às intoxicações. Nossa equipe é composta por médicos, farmacêuticos, psicólogos e alunos de áreas da saúde, todos prontos para auxiliar em casos de envenenamento e exposições tóxicas.",
+    "stats": [
+      {
+        "value": "24 horas",
+        "label": "Atendimento disponível"
+      },
+      {
+        "value": "2.000.000+",
+        "label": "Casos registrados de reações adversas"
+      },
+      {
+        "value": "32 anos",
+        "label": "Experiência no atendimento"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
